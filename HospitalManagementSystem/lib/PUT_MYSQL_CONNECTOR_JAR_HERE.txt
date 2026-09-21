@@ -1,0 +1,3 @@
+Download mysql-connector-j-x.x.x.jar from:
+https://dev.mysql.com/downloads/connector/j/
+and place it in this lib/ folder, then add it to your Eclipse build path.
